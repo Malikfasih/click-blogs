@@ -4,9 +4,9 @@ const Banner = () => {
       <div>
         <h1 className="text-7xl">Fasih's Daily Blog</h1>
         <h2 className="mt-5 md:mt-3">
-          Welcome to
+          Welcome to{" "}
           <span className="underline decoration-4 decoration-yellow-500">
-            Every Developers
+            Every Developers{" "}
           </span>
           favourite blog in the Devosphere
         </h2>
