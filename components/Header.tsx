@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import Me from "../images/me.jpg";
+import Micheal from "../images/micheal.jpg";
 
 const Header = () => {
   return (
@@ -8,13 +8,13 @@ const Header = () => {
       <div>
         <Link href="/" className="flex items-center space-x-2">
           <Image
-            className="rounded-full"
-            src={Me}
-            width={50}
-            height={50}
+            className="rounded-full h-11 w-11"
+            src={Micheal}
+            // width={50}
+            // height={50}
             alt="logo"
           />
-          <h1>Fasih</h1>
+          <h1>Micheal</h1>
         </Link>
       </div>
       <div>
