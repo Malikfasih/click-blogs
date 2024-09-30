@@ -15,4 +15,4 @@ Built a fully-fledged responsive click-blogs site by:
 - TypeScript to reduce the overall number of Bugs and Errors
 - Deployed site to Vercel.
 
-![screencapture-click-blogs-vercel-app-2023-07-22-19_57_17](https://github.com/Malikfasih/click-blogs/assets/90088021/87d0dbc3-c629-49f4-93d6-0f3f8a533f0e)
+![screencapture-localhost-3000-2024-09-30-15_50_35_1](https://github.com/user-attachments/assets/c81cbe86-1616-4b29-b424-151e00d66780)
